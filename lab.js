@@ -40,11 +40,11 @@ if (amysAge > brittanisAge) {
 */
 
 //CODE HERE
-if (amysBirthYear === brittanisBirthYear) {
-  console.log("they were born in the same year!")
-} else {
-  console.log("they were not born in the same year.")
-}
+// if (amysBirthYear === brittanisBirthYear) {
+//   console.log("they were born in the same year!")
+// } else {
+//   console.log("they were not born in the same year.")
+// }
 ////////// PROBLEM 4 //////////
 
 let temperature = 80;
@@ -56,9 +56,9 @@ let rain = true;
 */
 
 //CODE HERE
-if (temperature >= 80 && rain === true) {
-  console.log("it is t-shirt and umbrella weather.")
-}
+// if (temperature >= 80 && rain === true) {
+//   console.log("it is t-shirt and umbrella weather.")
+// }
 ////////// PROBLEM 5 //////////
 
 /*
