@@ -96,8 +96,10 @@ for (let i = 1; i < 11; i++) {
 */
 
 //CODE HERE
-
-
+let array = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
+for (let i = 0; i < array.length; i++) {
+  console.log(array[i])
+}
 ////////// PROBLEM 8 //////////
 
 let score = 0;
