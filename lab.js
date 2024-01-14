@@ -7,7 +7,7 @@
 */
 
 //CODE HERE
-let lovesCode = true;
+let lovesCode = false;
 if (lovesCode) {
   console.log("I love to code!")
 } else {
